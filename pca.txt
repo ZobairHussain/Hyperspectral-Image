@@ -1,0 +1,1 @@
+bestC= 7 ,bestG= 2 ,final accuracy =  0.780725500812 , time took =  4.399039329157935
