@@ -17,6 +17,8 @@ Hyperspectral image has provided significant opportunities for material identifi
 ### Dataset
 The Indian Pines Dataset is obtained by AVIRIS sensor over the Indian Pines test site in North-western Indiana and consists of 145 * 145 pixels and 224 spectral reflectance bands in the wavelength range 0.4–2.5 μm. 
 
+![image_ground_truth](image/GT.jpg)
+
 ### Work Flow
 The steps of the proposed methods are:
 1. Perform PCA to extract features from the input dataset.
@@ -27,7 +29,8 @@ The steps of the proposed methods are:
 6. Apply Support Vector Machine (SVM) to find classification accuracy.
 
 ### Classification Accuracy<br/>
-PCA	86.78%<br/>
-LDA	87.53%<br/>
-mRMR	81.34%<br/>
-PCA+mRMR	92.16%<br/>
+PCA =	86.78%<br/>
+LDA =	87.53%<br/>
+mRMR =	81.34%<br/>
+PCA+mRMR =	92.16%<br/>
+![admin](image/)
