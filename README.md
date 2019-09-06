@@ -33,4 +33,7 @@ PCA =	86.78%<br/>
 LDA =	87.53%<br/>
 mRMR =	81.34%<br/>
 PCA+mRMR =	92.16%<br/>
-![admin](image/)
+### PCA vs variance
+![admin](image/pca_variance.jpg)
+### Confusion matrix
+![confufion matrix](image/cm.JPG)
